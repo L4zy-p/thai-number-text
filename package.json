@@ -1,4 +1,21 @@
 {
   "name": "thai-number-text",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "description": "Convert number to Thai Text",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L4zy-p/thai-number-text.git"
+  },
+  "keywords": [
+    "thai",
+    "number",
+    "text",
+    "ThaiNumberText",
+    "javascript",
+    "convert thai number text"
+  ],
+  "author": "L4zy-p",
+  "license": "MIT",
+  "homepage": "https://github.com/L4zy-p/thai-number-text#readme"
 }
